@@ -22,7 +22,6 @@ after finishing up the set-up which was moe or less speed through i entered us-e
 ->to deploy as lambda function: "serverless deploy --stage dev --aws-profile default "
 ->to check logs we run it again but not locally this time "serverless invoke --stage dev --aws-profile default -f firstlambda "
 
-=======================================END dated 4 October 2022===========================================================
-
+=============================END dated 4 October 2022======================================
 
 
