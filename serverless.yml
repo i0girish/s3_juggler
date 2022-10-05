@@ -1,0 +1,16 @@
+
+service: firstlambda
+
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  region: ${opt:region, 'us-east-1'}
+  environment:
+      STAGE: ${opt:stage, 'dev'}
+
+
+functions:
+  firstlambda:
+    handler: functions/firstlambda.handler
