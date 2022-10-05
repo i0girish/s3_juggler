@@ -7,7 +7,7 @@ first i created an IAM user which i linked to my vs code console.
 IAM username: vscodeuser  IAM password:Vscode123#
 after finishing up the set-up which was moe or less speed through i entered us-east virgenia as area in vs code.
 
--> npm install -g serverless \n
+-> npm install -g serverless
 -> next I initiated a serverless file by "serverless create --template aws-nodejs --path ."
 -> npm init to get the package.json
 -> npm install papaparse, this will create package-lock.json
