@@ -30,5 +30,11 @@ after finishing up the set-up which was moe or less speed through i entered us-e
 
 =============== END dated 4 October 2022=================
 
-## Readme (5 Oct 2022)
+## (5 Oct 2022)
 
+utilizing previous gained knowledge to make a lambda function directly in aws console along with triggers and events which backs up data from one s3 to other bucket.
+
+->first created a policy which was further used in role making .
+
+->this role was used in making lambda function which didnt really go well as the tutorial didmt help in triggers
+->looking for a new version!.
